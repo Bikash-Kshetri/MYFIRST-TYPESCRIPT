@@ -19,6 +19,7 @@ const Card = ({ name, age, address }: TCard) => {
       <h2>My age is {age}</h2>
       <h3>My address is {address}</h3>
       <h1>Bikash Rayamajhi </h1>
+      <h4>BSc IT </h4>
      
     </div>
   );
