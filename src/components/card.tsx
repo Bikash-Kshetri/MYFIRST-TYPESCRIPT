@@ -17,7 +17,7 @@ const Card = ({ name, age, address }: TCard) => {
     <div>
       <h1 className="bg-red-500">My name is {name}</h1>
       <h2>My age is {age}</h2>
-     
+      <h3>My address is {address}</h3>
      
     </div>
   );
